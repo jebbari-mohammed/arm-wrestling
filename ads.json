@@ -1,0 +1,7 @@
+{
+  "admob": {
+    "banner": "ca-app-pub-...",
+    "interstitial": "ca-app-pub-..."
+  },
+  "fan": { "banner": "", "interstitial": "" }
+}
