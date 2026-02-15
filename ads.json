@@ -1,7 +1,15 @@
 {
+  "activeNetwork": "admob",
   "admob": {
-    "banner": "ca-app-pub-...",
-    "interstitial": "ca-app-pub-..."
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712"
   },
-  "fan": { "banner": "", "interstitial": "" }
+  "fan": {
+    "banner": "YOUR_FAN_BANNER_ID",
+    "interstitial": "YOUR_FAN_INTERSTITIAL_ID"
+  },
+  "applovin": {
+    "banner": "YOUR_APPLOVIN_BANNER_ID",
+    "interstitial": "YOUR_APPLOVIN_INTERSTITIAL_ID"
+  }
 }
