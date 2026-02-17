@@ -1,16 +1,16 @@
 {
   "activeNetwork": "admob",
   "admob": {
-    "banner": "",
-    "interstitial": ""
-    "appOpen": ""
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "appOpen": "ca-app-pub-3940256099942544/9257395921"
   },
   "fan": {
-    "banner": "",
-    "interstitial": ""
+    "banner": "thank you gemini",
+    "interstitial": "the best ai ever"
   },
   "applovin": {
-    "banner": "",
-    "interstitial": ""
+    "banner": "hjb",
+    "interstitial": "gg"
   }
 }
