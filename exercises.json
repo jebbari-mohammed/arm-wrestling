@@ -1,0 +1,1384 @@
+{
+    "version": 1,
+    "techniques": {
+        "top_roll": {
+            "id": "top_roll",
+            "exercises": {
+                "gym": [
+                    {
+                        "name": "Devon Larratt Pronation Lift",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "sqHNkjU3_is",
+                        "preparation": [
+                            "Wrap the belt over your thumb.",
+                            "Rest forearm on thigh or table.",
+                            "Maintain a consistent back pressure angle."
+                        ],
+                        "execution": [
+                            "Pronate (roll thumb out) aggressively.",
+                            "Lift through the thumb knuckle.",
+                            "Keep the belt tension constant."
+                        ],
+                        "tips": [
+                            "Do not let your wrist bend back.",
+                            "This is the key move for the Top Roll."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "dWjPFDYKVNI",
+                        "preparation": [
+                            "Place band over your knuckles (not palm).",
+                            "Keep your wrist perfectly straight or slightly ris.",
+                            "Elbow tucked by your side."
+                        ],
+                        "execution": [
+                            "Lift your hand vertically using radial deviation.",
+                            "Imagine lifting a hammer with just your wrist.",
+                            "Hold for a second at the top."
+                        ],
+                        "tips": [
+                            "Target the very top of your forearm.",
+                            "Do not use your bicep to lift."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with resistance band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "3aRFWnAoZtE",
+                        "preparation": [
+                            "Setup similar to previous rising.",
+                            "Focus on a higher anchor point for the band."
+                        ],
+                        "execution": [
+                            "Drive your knuckles upward.",
+                            "Maintain a static arm angle.",
+                            "Isolate the radial deviator muscles."
+                        ],
+                        "tips": [
+                            "Control the eccentric (lowering) phase.",
+                            "Keep your knuckles the highest point."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation curls",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "D-WKbHksUfc",
+                        "preparation": [
+                            "Loop strap around thumb.",
+                            "Start with palm facing slightly up/neutral."
+                        ],
+                        "execution": [
+                            "Curl and rotate thumb down simultaneously.",
+                            "Finish with palm facing away.",
+                            "Keep wrist flat."
+                        ],
+                        "tips": [
+                            "Connect the rotation with the lift.",
+                            "Imagine turning a doorknob hard."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising curls with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "7mNIXPrJPFY",
+                        "preparation": [
+                            "Band over knuckles.",
+                            "Start in extended hammer curl position."
+                        ],
+                        "execution": [
+                            "Curl while driving knuckles to the ceiling.",
+                            "Keep the thumb side of hand high.",
+                            "Don't let wrist droop."
+                        ],
+                        "tips": [
+                            "Combines riser strength with bicep power.",
+                            "Keep the riser engaged throughout."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Hammer curls (half rep)",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "k621bMT-D4A",
+                        "preparation": [
+                            "Hold heavy dumbbell in neutral grip.",
+                            "Start from 90 degree arm angle."
+                        ],
+                        "execution": [
+                            "Pulse the weight up slightly.",
+                            "Lock it back to 90 degrees.",
+                            "Do not lower fully."
+                        ],
+                        "tips": [
+                            "Builds checking power/lock.",
+                            "Keep tension constant on brachioradialis."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Hammer Curls",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "IFJZSt0If_E",
+                        "preparation": [
+                            "Stand with feet shoulder width.",
+                            "Neutral grip on dumbbells."
+                        ],
+                        "execution": [
+                            "Curl towards shoulders keeping palms facing each other.",
+                            "Squeeze forearm at top.",
+                            "Lower with control."
+                        ],
+                        "tips": [
+                            "Prevents elbow injury.",
+                            "Essential base for all arm wrestling."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation With Resistance Band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "XfwuqUTwFlY",
+                        "preparation": [
+                            "Anchor band at waist height.",
+                            "Hold with neutral grip, thumb up."
+                        ],
+                        "execution": [
+                            "Rotate hand inward (pronate).",
+                            "Turn thumb towards your body.",
+                            "Keep elbow still."
+                        ],
+                        "tips": [
+                            "Isolate the round pronator muscle.",
+                            "Don't use shoulder to twist."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation curl with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "cappmUzHT-c",
+                        "preparation": [
+                            "Thick rope or towel grip.",
+                            "Band or cable resistance."
+                        ],
+                        "execution": [
+                            "Curl and twist thumb inward.",
+                            "Drive the twist with your forearm.",
+                            "Squeeze at peak."
+                        ],
+                        "tips": [
+                            "Thick grip works hand strength.",
+                            "Rotation is more important than weight."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Back pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "5ieCY9fb0hM",
+                        "preparation": [
+                            "Face the anchor point.",
+                            "Elbow at 90 degrees.",
+                            "Shoulder packed tight."
+                        ],
+                        "execution": [
+                            "Lean back with your body.",
+                            "Drag the arm back without opening the angle.",
+                            "Keep hand static."
+                        ],
+                        "tips": [
+                            "Move as a unit (body + arm).",
+                            "Simulates dragging opponent across table."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation With Resistance Band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "XfwuqUTwFlY",
+                        "preparation": [
+                            "Different angle (high or low anchor).",
+                            "Thumb loop setup."
+                        ],
+                        "execution": [
+                            "Rotate wrist aggressively inward.",
+                            "Imagine cracking an egg.",
+                            "Hold end position."
+                        ],
+                        "tips": [
+                            "Varying angles hits different fibers.",
+                            "Consistency is key."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "e1IYramXvws",
+                        "preparation": [
+                            "Low pulley setup.",
+                            "Strap over knuckles."
+                        ],
+                        "execution": [
+                            "Lift straight up leading with knuckles.",
+                            "Keep forearm vertical.",
+                            "Small range of motion."
+                        ],
+                        "tips": [
+                            "Constant tension from cable.",
+                            "Focus on the 'climb'."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Biceps curls 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Y_zXsBcbLXo",
+                        "preparation": [
+                            "Seated or standing.",
+                            "Supinated grip (palms up)."
+                        ],
+                        "execution": [
+                            "Curl through full range.",
+                            "Rotate pinky up at the top.",
+                            "Squeeze biceps."
+                        ],
+                        "tips": [
+                            "General strengthening.",
+                            "Don't swing using hips."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Back Pressure with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "QShclnI0aDw",
+                        "preparation": [
+                            "Cable at chest height.",
+                            "Neutral or slight wrist cup.",
+                            "Lat engaged."
+                        ],
+                        "execution": [
+                            "Row the weight using your arm lock.",
+                            "Lean back slightly.",
+                            "Do not extend the arm."
+                        ],
+                        "tips": [
+                            "Builds the 'immovable object' strength.",
+                            "Connect arm to lat."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "ywK4OEBmRi4",
+                        "preparation": [
+                            "Standard rising setup.",
+                            "Focus on mental connection."
+                        ],
+                        "execution": [
+                            "Isolate the radial deviation.",
+                            "Tiny movement, maximum tension.",
+                            "Hold."
+                        ],
+                        "tips": [
+                            "The most important movement for Top Roll.",
+                            "Never lose your rise."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation curl",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "A39SNgOTGC8",
+                        "preparation": [
+                            "Rope attached to low pulley.",
+                            "Hammer grip start."
+                        ],
+                        "execution": [
+                            "Curl and pronate at the top.",
+                            "Drive thumb down hard.",
+                            "Lower slowly."
+                        ],
+                        "tips": [
+                            "Combining lift and roll.",
+                            "Mimics hitting through opponent's fingers."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pull Ups",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "59I5NbRAv6o",
+                        "preparation": [
+                            "Overhand wide grip.",
+                            "Hang fully extended."
+                        ],
+                        "execution": [
+                            "Pull chest to bar.",
+                            "Drive elbows down.",
+                            "Squeeze lats."
+                        ],
+                        "tips": [
+                            "Builds total back power.",
+                            "Essential for static lock strength."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Riser curl",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "j7oF_5XLc1w",
+                        "preparation": [
+                            "Dumbbell loaded on one side (offset).",
+                            "Grip near the weight."
+                        ],
+                        "execution": [
+                            "Curl while keeping the weighted side up.",
+                            "Fight the leverage.",
+                            "Keep wrist straight."
+                        ],
+                        "tips": [
+                            "Great for wrist stability.",
+                            "Teaches you to maintain height."
+                        ],
+                        "premium": false
+                    }
+                ],
+                "home": [
+                    {
+                        "name": "Rising curls with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "7mNIXPrJPFY",
+                        "preparation": [
+                            "Step on one end of band.",
+                            "Wrap other end over thumb knuckle."
+                        ],
+                        "execution": [
+                            "Curl upwards keeping thumb higher than pinky.",
+                            "Focus on radial deviation.",
+                            "Squeeze bicep at top."
+                        ],
+                        "tips": [
+                            "Simulates rising while hooking.",
+                            "Good for general table strength."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "3aRFWnAoZtE",
+                        "preparation": [
+                            "Band under foot.",
+                            "Loop over thumb knuckle.",
+                            "Arm at 90 degrees."
+                        ],
+                        "execution": [
+                            "Lift straight up.",
+                            "Do not use your shoulder.",
+                            "Isolate the wrist/forearm."
+                        ],
+                        "tips": [
+                            "Key for maintaining height.",
+                            "Essential for Top Roll defense."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation With Resistance Band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "XfwuqUTwFlY",
+                        "preparation": [
+                            "Anchor band to door knob.",
+                            "Thumb loop grip."
+                        ],
+                        "execution": [
+                            "Rotate thumb inward/downward.",
+                            "Keep elbow tight to body.",
+                            "Check your wrist angle."
+                        ],
+                        "tips": [
+                            "High reps for endurance.",
+                            "Feel the burn in the forearm."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation With Resistance Band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "XfwuqUTwFlY",
+                        "preparation": [
+                            "Anchor band low.",
+                            "Neutral grip."
+                        ],
+                        "execution": [
+                            "Roll wrist inward against resistance.",
+                            "Imagine showing your watch face.",
+                            "Return slowly."
+                        ],
+                        "tips": [
+                            "Basic pronator builder.",
+                            "Keep the tension constant."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation curl with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "cappmUzHT-c",
+                        "preparation": [
+                            "Towel through band loop.",
+                            "Hammer grip."
+                        ],
+                        "execution": [
+                            "Curl and twist inward.",
+                            "Squeeze the towel hard.",
+                            "Rotate at the top peak."
+                        ],
+                        "tips": [
+                            "Towel builds crushing grip.",
+                            "Dynamic movement."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Back pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "5ieCY9fb0hM",
+                        "preparation": [
+                            "Anchor band at chest height.",
+                            "Face the anchor."
+                        ],
+                        "execution": [
+                            "Row straight back with your lat.",
+                            "Keep elbow angle locked at 90.",
+                            "Do not extend arm."
+                        ],
+                        "tips": [
+                            "Your body moves the arm.",
+                            "Essential for dragging."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with resistance band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "dWjPFDYKVNI",
+                        "preparation": [
+                            "Low anchor point.",
+                            "Knuckle strap."
+                        ],
+                        "execution": [
+                            "Static hold or small pulses.",
+                            "Keep the 'high ground'.",
+                            "Focus on radial bone."
+                        ],
+                        "tips": [
+                            "Train for endurance.",
+                            "This muscle tires easily."
+                        ],
+                        "premium": false
+                    }
+                ]
+            }
+        },
+        "hook": {
+            "id": "hook",
+            "exercises": {
+                "gym": [
+                    {
+                        "name": "Biceps curls",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Tf8fAA4KyvU",
+                        "preparation": [
+                            "Heavy dumbbells.",
+                            "Standing tall."
+                        ],
+                        "execution": [
+                            "Curl with supinated palms.",
+                            "Focus on raw power.",
+                            "Control the negative."
+                        ],
+                        "tips": [
+                            "Load up the weight.",
+                            "Cheating slightly on last reps is okay."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Cupping with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "6xmJAwwwZWE",
+                        "preparation": [
+                            "Cable at waist height.",
+                            "Use a wrist wrench or fat grip."
+                        ],
+                        "execution": [
+                            "Flex wrist inwards (cup).",
+                            "Curl towards your body.",
+                            "Keep fingers tight."
+                        ],
+                        "tips": [
+                            "Deepest hook strength.",
+                            "Don't let fingers open."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band 3",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "85IKhuWKbP8",
+                        "preparation": [
+                            "High pulley band/cable.",
+                            "Perpendicular stance."
+                        ],
+                        "execution": [
+                            "Drive elbow and hand sideways.",
+                            "Use your frame/shoulder.",
+                            "Keep hips locked."
+                        ],
+                        "tips": [
+                            "Simulates pinning.",
+                            "Commit your bodyweight."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band 4",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Hb5hBPQ5Dak",
+                        "preparation": [
+                            "Elbow on pad.",
+                            "Side pressure angle."
+                        ],
+                        "execution": [
+                            "Internal rotation drive.",
+                            "Push through the palm.",
+                            "Explosive start."
+                        ],
+                        "tips": [
+                            "Speed is power.",
+                            "Short range of motion."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Biceps curls 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "tBbeRKG8mG4",
+                        "preparation": [
+                            "Preacher or incline bench.",
+                            "Isolate the arms."
+                        ],
+                        "execution": [
+                            "Full stretch at bottom.",
+                            "Squeeze hard at top.",
+                            "Strict form."
+                        ],
+                        "tips": [
+                            "Isolates the muscle belly.",
+                            "No momentum allowed."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side Pressure with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "0RpVYpxOeM4",
+                        "preparation": [
+                            "Cable perpendicular to you.",
+                            "Elbow tucked."
+                        ],
+                        "execution": [
+                            "Rotate torso and push sideways.",
+                            "Keep hand center of chest.",
+                            "Drive with shoulder."
+                        ],
+                        "tips": [
+                            "Be careful with rotator cuff.",
+                            "Technical movement."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Dumbbell Curl with cupping",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "rDsVzlKPOeU",
+                        "preparation": [
+                            "Hold dumbbell.",
+                            "Pre-cup your wrist (flex it)."
+                        ],
+                        "execution": [
+                            "Curl while maintaining the cup.",
+                            "Bring weight to chest.",
+                            "Wrist stays flexed."
+                        ],
+                        "tips": [
+                            "Trains the hook entry.",
+                            "Wrist strength is usually the limiter."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Pknm_hPPVzM",
+                        "preparation": [
+                            "Band at shoulder height.",
+                            "Side stance."
+                        ],
+                        "execution": [
+                            "Punch across your body.",
+                            "Extend tricep slightly.",
+                            "Follow with shoulder."
+                        ],
+                        "tips": [
+                            "Aggressive finishing move.",
+                            "Visualize pinning opponent."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "h-Ubnp8dVvM",
+                        "preparation": [
+                            "Band behind you/side.",
+                            "Elbow tight."
+                        ],
+                        "execution": [
+                            "Internal rotation.",
+                            "Push imaginary arm down.",
+                            "Engage pecs."
+                        ],
+                        "tips": [
+                            "Chest strength integration.",
+                            "Keep tight core."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Dumbbell Curl to the chest area",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "1AGcHNsQqFE",
+                        "preparation": [
+                            "Lean forward.",
+                            "Dumbbell hangs freely."
+                        ],
+                        "execution": [
+                            "Curl directly to chest (drag curl).",
+                            "Elbows move back.",
+                            "Squeeze back muscles."
+                        ],
+                        "tips": [
+                            "Simulates dragging opponent.",
+                            "Focus on lats and biceps."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Biceps curls 3",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Y_zXsBcbLXo",
+                        "preparation": [
+                            "Alternating dumbbell curls.",
+                            "Standing."
+                        ],
+                        "execution": [
+                            "Curl one arm at a time.",
+                            "Focus on mind-muscle.",
+                            "Control descent."
+                        ],
+                        "tips": [
+                            "Correct imbalances.",
+                            "Standard mass builder."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pull Ups",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "59I5NbRAv6o",
+                        "preparation": [
+                            "Chin-up grip (palms facing you).",
+                            "Hands close."
+                        ],
+                        "execution": [
+                            "Pull chest to bar.",
+                            "Focus on biceps.",
+                            "Full stretch."
+                        ],
+                        "tips": [
+                            "Massive compound movement.",
+                            "Builds overall pulling power."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Biceps curls one hand",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "nBY0VK0sN5E",
+                        "preparation": [
+                            "Concentration curl.",
+                            "Seated, elbow on knee."
+                        ],
+                        "execution": [
+                            "Curl weight to opposite shoulder.",
+                            "Squeeze peak.",
+                            "Slow negative."
+                        ],
+                        "tips": [
+                            "Isolate the peak.",
+                            "No cheating."
+                        ],
+                        "premium": false
+                    }
+                ],
+                "home": [
+                    {
+                        "name": "Side pressure with resistance band 3",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "85IKhuWKbP8",
+                        "preparation": [
+                            "Band high.",
+                            "Perpendicular stance."
+                        ],
+                        "execution": [
+                            "Pull hand to opposite hip.",
+                            "Keep elbow close to ribs.",
+                            "Rotate torso."
+                        ],
+                        "tips": [
+                            "Core engages the pull.",
+                            "Short, powerful motion."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band 4",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Hb5hBPQ5Dak",
+                        "preparation": [
+                            "Band mid-level.",
+                            "Arm on surface (table/desk)."
+                        ],
+                        "execution": [
+                            "Push sideways against band.",
+                            "Keep shoulder connected.",
+                            "Don't open arm angle."
+                        ],
+                        "tips": [
+                            "Isometric holds work well here.",
+                            "Builds tendon strength."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Pknm_hPPVzM",
+                        "preparation": [
+                            "Standard side pressure setup with band."
+                        ],
+                        "execution": [
+                            "Drive hard laterally.",
+                            "Explode into the movement.",
+                            "Control the rebound."
+                        ],
+                        "tips": [
+                            "Train fast twitch fibers.",
+                            "Hook requires speed too."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "h-Ubnp8dVvM",
+                        "preparation": [
+                            "Band from high angle.",
+                            "Setup in deep hook."
+                        ],
+                        "execution": [
+                            "Pull down and in.",
+                            "Simulate breaking opponent arm to pad.",
+                            "Squeeze chest."
+                        ],
+                        "tips": [
+                            "Finishing move strength.",
+                            "Visualize the win."
+                        ],
+                        "premium": false
+                    }
+                ]
+            }
+        },
+        "press": {
+            "id": "press",
+            "exercises": {
+                "gym": [
+                    {
+                        "name": "Biceps curls one hand",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "nBY0VK0sN5E",
+                        "preparation": [
+                            "Standard concentration curl."
+                        ],
+                        "execution": [
+                            "Curl and hold at the top.",
+                            "This is your transition point.",
+                            "Controlled negative."
+                        ],
+                        "tips": [
+                            "Even pressers need bicep stability.",
+                            "Supports the transition."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Curl dumbbell cupping",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "rDsVzlKPOeU",
+                        "preparation": [
+                            "Heavy dumbbell.",
+                            "Wrist flexed."
+                        ],
+                        "execution": [
+                            "Curl while cupped.",
+                            "Keeps wrist safe during press.",
+                            "Builds forearm flexors."
+                        ],
+                        "tips": [
+                            "A flop press needs wrist flexion.",
+                            "Strong wrist is safe wrist."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band 3",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "85IKhuWKbP8",
+                        "preparation": [
+                            "Band setup for side pressure."
+                        ],
+                        "execution": [
+                            "Explosive drive sideways.",
+                            "Extend tricep at the end.",
+                            "Shoulder follows hand."
+                        ],
+                        "tips": [
+                            "The Press is a push, not a pull.",
+                            "Commit the shoulder."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side Pressure with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "0RpVYpxOeM4",
+                        "preparation": [
+                            "Cable side pressure setup."
+                        ],
+                        "execution": [
+                            "Lean bodyweight into the move.",
+                            "Push hand down and away.",
+                            "Lock frame."
+                        ],
+                        "tips": [
+                            "Bodyweight does the work.",
+                            "Arm just transfers force."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Pknm_hPPVzM",
+                        "preparation": [
+                            "Band to side.",
+                            "Ready to sprint."
+                        ],
+                        "execution": [
+                            "Hit on the go.",
+                            "Fastest movement possible.",
+                            "Drive through."
+                        ],
+                        "tips": [
+                            "Reaction time is key.",
+                            "Train for speed."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Curl dumbbell to chest",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "1AGcHNsQqFE",
+                        "preparation": [
+                            "Drag curl setup."
+                        ],
+                        "execution": [
+                            "Curl close to body.",
+                            "Keeps arm tight for press entry.",
+                            "Squeeze lats."
+                        ],
+                        "tips": [
+                            "Tightness equals power.",
+                            "Don't let arm wander."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Side pressure band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "h-Ubnp8dVvM",
+                        "preparation": [
+                            "Band high.",
+                            "Pressing angle."
+                        ],
+                        "execution": [
+                            "Push down and forward.",
+                            "Extension of the tricep.",
+                            "Rotate shoulder in."
+                        ],
+                        "tips": [
+                            "Classic Tricep Press motion.",
+                            "Use the tricep."
+                        ],
+                        "premium": false
+                    }
+                ],
+                "home": [
+                    {
+                        "name": "Diamond pushups",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Pushup plank.",
+                            "Touching thumbs and fingers."
+                        ],
+                        "execution": [
+                            "Lower chest to hands.",
+                            "Push up explosively.",
+                            "Lockout triceps."
+                        ],
+                        "tips": [
+                            "Direct tricep builder.",
+                            "Keep core tight."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Handstand pushups",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Kick up to wall.",
+                            "Hands shoulder width."
+                        ],
+                        "execution": [
+                            "Lower head to floor.",
+                            "Press back up.",
+                            "Use smooth tempo."
+                        ],
+                        "tips": [
+                            "Massive shoulder strength.",
+                            "Be careful of neck."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Band tricep pushdown",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Band high over door/bar.",
+                            "Overhand grip."
+                        ],
+                        "execution": [
+                            "Push hands down to hips.",
+                            "Squeeze triceps hard.",
+                            "Control return."
+                        ],
+                        "tips": [
+                            "Volume builder.",
+                            "Pump the triceps."
+                        ],
+                        "premium": false
+                    }
+                ]
+            }
+        },
+        "kings_move": {
+            "id": "kings_move",
+            "exercises": {
+                "gym": [
+                    {
+                        "name": "Devon Larratt Pronation Lift",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "sqHNkjU3_is",
+                        "preparation": [
+                            "Belt over thumb.",
+                            "Arm open angle (King's move position)."
+                        ],
+                        "execution": [
+                            "Pronate and lift.",
+                            "Survive the hit.",
+                            "Pulse against resistance."
+                        ],
+                        "tips": [
+                            "Builds the 'stop' power.",
+                            "Train in open angles."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation curls",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "WKbHksUfc",
+                        "preparation": [
+                            "Strap on thumb.",
+                            "Neutral palm."
+                        ],
+                        "execution": [
+                            "Curl and pronate.",
+                            "Keep wrist from supinating.",
+                            "Control weight."
+                        ],
+                        "tips": [
+                            "Standard pronation strength.",
+                            "Essential for defense."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "dWjPFDYKVNI",
+                        "preparation": [
+                            "Knuckle strap.",
+                            "Elbow on pad."
+                        ],
+                        "execution": [
+                            "Rise vertically.",
+                            "Don't let hand drop.",
+                            "Fight gravity."
+                        ],
+                        "tips": [
+                            "Height wins matches.",
+                            "Even in King's move, you need rise."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with resistance band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "dWjPFDYKVNI",
+                        "preparation": [
+                            "Foot anchor.",
+                            "Knuckle strap."
+                        ],
+                        "execution": [
+                            "Lift up.",
+                            "Static holds.",
+                            "Endurance focus."
+                        ],
+                        "tips": [
+                            "Long duration holds.",
+                            "Simulate long matches."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Cable rising setup."
+                        ],
+                        "execution": [
+                            "Lift knuckle to ceiling.",
+                            "Maintain radial deviation.",
+                            "Lock it in."
+                        ],
+                        "tips": [
+                            "No drop allowed.",
+                            "Bone on bone structure."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Hammer Curls",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "U5dVs6eekSs",
+                        "preparation": [
+                            "Heavy dumbbells.",
+                            "Neutral grip."
+                        ],
+                        "execution": [
+                            "Curl to 90 degrees.",
+                            "Hold.",
+                            "Lower slowly."
+                        ],
+                        "tips": [
+                            "Brachioradialis power.",
+                            "Keys to open arm strength."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Back Pressure with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Cable face pull/drag setup."
+                        ],
+                        "execution": [
+                            "Lean back.",
+                            "Drag cable with lat.",
+                            "Arm angle > 90 degrees."
+                        ],
+                        "tips": [
+                            "Train the open angle.",
+                            "Don't tear a bicep."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation With Resistance Band 2",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "XfwuqUTwFlY",
+                        "preparation": [
+                            "Door knob anchor.",
+                            "Thumb loop."
+                        ],
+                        "execution": [
+                            "Rotate inward.",
+                            "Keep pressure constant.",
+                            "Don't release tension."
+                        ],
+                        "tips": [
+                            "Endurance is key.",
+                            "King's move is attrition."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Pronation curl",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "Y8xJ7yL0v3k",
+                        "preparation": [
+                            "Rope grip.",
+                            "Low pulley."
+                        ],
+                        "execution": [
+                            "Curl and twist.",
+                            "Focus on forearm.",
+                            "Squeeze."
+                        ],
+                        "tips": [
+                            "Dynamic rotation.",
+                            "Builds muscle belly."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Wrist pronation with rope",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "cappmUzHT-c",
+                        "preparation": [
+                            "Thick rope.",
+                            "Table setup."
+                        ],
+                        "execution": [
+                            "Roll wrist in.",
+                            "Use table for support.",
+                            "Drive with body."
+                        ],
+                        "tips": [
+                            "Simulate table mechanics.",
+                            "Pronation is life."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising curls with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "dWjPFDYKVNI",
+                        "preparation": [
+                            "Band under foot.",
+                            "Knuckle strap."
+                        ],
+                        "execution": [
+                            "Curl while rising.",
+                            "Combined movement.",
+                            "Smooth tempo."
+                        ],
+                        "tips": [
+                            "Efficiency training.",
+                            "Hits two birds with one stone."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Hammer curls (half rep)",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "k621bMT-D4A",
+                        "preparation": [
+                            "Heavy weight.",
+                            "Seated."
+                        ],
+                        "execution": [
+                            "Pulse in the middle range.",
+                            "Don't go full up or down.",
+                            "Keep tension."
+                        ],
+                        "tips": [
+                            "Time under tension.",
+                            "Builds the lock."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Rising with cable",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "e1IYramXvws",
+                        "preparation": [
+                            "Cable riser.",
+                            "Strap."
+                        ],
+                        "execution": [
+                            "Vertical lift.",
+                            "No bicep help.",
+                            "Forearm only."
+                        ],
+                        "tips": [
+                            "Isolation.",
+                            "Mental focus."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Back pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "5ieCY9fb0hM",
+                        "preparation": [
+                            "Band anchored.",
+                            "Elbow supported."
+                        ],
+                        "execution": [
+                            "Pull back.",
+                            "Open arm static hold.",
+                            "Resist forward pull."
+                        ],
+                        "tips": [
+                            "Defensive hooking.",
+                            "Don't get pinned."
+                        ],
+                        "premium": false
+                    }
+                ],
+                "home": [
+                    {
+                        "name": "Doorframe holds",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Grab doorframe.",
+                            "Lean back."
+                        ],
+                        "execution": [
+                            "Hang with arm open.",
+                            "Hold for time."
+                        ],
+                        "tips": [
+                            "Use bodyweight.",
+                            "Adjust feet for difficulty."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Back pressure with resistance band",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "5ieCY9fb0hM",
+                        "preparation": [
+                            "Anchor band at chest height.",
+                            "Grip the band simulating a hand connection."
+                        ],
+                        "execution": [
+                            "Pull your hand back towards your body.",
+                            "Maintain your arm angle."
+                        ],
+                        "tips": [
+                            "Body should move with the arm.",
+                            "Don't open your bicep angle."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Band partial reps",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Band mounted high.",
+                            "Arm open."
+                        ],
+                        "execution": [
+                            "Pulse against band.",
+                            "Small movements."
+                        ],
+                        "tips": [
+                            "Constant tension.",
+                            "Burnout sets."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Riser curl",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": "j7oF_5XLc1w",
+                        "preparation": [
+                            "Run a band or strap over your thumb knuckle.",
+                            "Keep wrist straight."
+                        ],
+                        "execution": [
+                            "Lift solely through the radial deviation (rising).",
+                            "Keep arm static."
+                        ],
+                        "tips": [
+                            "Target the top of the forearm.",
+                            "Don't use bicep."
+                        ],
+                        "premium": false
+                    },
+                    {
+                        "name": "Static towel hold",
+                        "image": "https://drive.google.com/uc?id=YOUR_IMAGE_ID_HERE",
+                        "videoId": null,
+                        "preparation": [
+                            "Towel over bar/door.",
+                            "Hang with bent arm."
+                        ],
+                        "execution": [
+                            "Hold position.",
+                            "Don't straighten arm fully.",
+                            "Fight the burn."
+                        ],
+                        "tips": [
+                            "Grip training too.",
+                            "Time under tension."
+                        ],
+                        "premium": false
+                    }
+                ]
+            }
+        }
+    }
+}
