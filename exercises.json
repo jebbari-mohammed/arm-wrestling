@@ -311,7 +311,7 @@
                             "Combining lift and roll.",
                             "Mimics hitting through opponent's fingers."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Pull Ups",
@@ -330,7 +330,7 @@
                             "Builds total back power.",
                             "Essential for static lock strength."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Riser curl",
@@ -349,7 +349,7 @@
                             "Great for wrist stability.",
                             "Teaches you to maintain height."
                         ],
-                        "premium": false
+                        "premium": true
                     }
                 ],
                 "home": [
@@ -701,7 +701,7 @@
                             "Correct imbalances.",
                             "Standard mass builder."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Pull Ups",
@@ -720,7 +720,7 @@
                             "Massive compound movement.",
                             "Builds overall pulling power."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Biceps curls one hand",
@@ -739,7 +739,7 @@
                             "Isolate the peak.",
                             "No cheating."
                         ],
-                        "premium": false
+                        "premium": true
                     }
                 ],
                 "home": [
@@ -915,7 +915,7 @@
                             "Reaction time is key.",
                             "Train for speed."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Curl dumbbell to chest",
@@ -933,7 +933,7 @@
                             "Tightness equals power.",
                             "Don't let arm wander."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Side pressure band 2",
@@ -952,7 +952,7 @@
                             "Classic Tricep Press motion.",
                             "Use the tricep."
                         ],
-                        "premium": false
+                        "premium": true
                     }
                 ],
                 "home": [
@@ -1244,7 +1244,7 @@
                             "Time under tension.",
                             "Builds the lock."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Rising with cable",
@@ -1263,7 +1263,7 @@
                             "Isolation.",
                             "Mental focus."
                         ],
-                        "premium": false
+                        "premium": true
                     },
                     {
                         "name": "Back pressure with resistance band",
@@ -1282,7 +1282,7 @@
                             "Defensive hooking.",
                             "Don't get pinned."
                         ],
-                        "premium": false
+                        "premium": true
                     }
                 ],
                 "home": [
