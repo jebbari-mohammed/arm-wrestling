@@ -1,16 +1,24 @@
 {
   "activeNetwork": "admob",
   "admob": {
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "appOpen": "ca-app-pub-3940256099942544/9257395921"
+    "banner_android": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_android": "ca-app-pub-3940256099942544/1033173712",
+    "appOpen_android": "ca-app-pub-3940256099942544/9257395921",
+    "rewarded_android": "ca-app-pub-3940256099942544/5224354917",
+
+    "banner_ios": "ca-app-pub-3940256099942544/2934735716",
+    "interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
+    "appOpen_ios": "ca-app-pub-3940256099942544/5575463023",
+    "rewarded_ios": "ca-app-pub-3940256099942544/1712467920"
   },
   "fan": {
-    "banner": "thank you gemini",
-    "interstitial": "the best ai ever"
+    "banner": "YOUR_FAN_BANNER_ID",
+    "interstitial": "YOUR_FAN_INTERSTITIAL_ID",
+    "rewarded": "YOUR_FAN_REWARDED_ID"
   },
   "applovin": {
-    "banner": "hjb",
-    "interstitial": "gg"
+    "banner": "YOUR_APPLOVIN_BANNER_ID",
+    "interstitial": "YOUR_APPLOVIN_INTERSTITIAL_ID",
+    "rewarded": "YOUR_APPLOVIN_REWARDED_ID"
   }
 }
