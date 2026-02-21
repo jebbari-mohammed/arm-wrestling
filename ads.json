@@ -1,5 +1,16 @@
 {
-  "activeNetwork": "admob",
+  "activeNetwork": "ironsource",
+
+  "ironsource": {
+    "app_key_android": "254f0425d",
+    "app_key_ios": "254f56d95",
+    "banner_android": "3aswekz2nkxzsrky",
+    "interstitial_android": "e6x2qb3fntxj0z6g",
+    "rewarded_android": "q8m10a4xt1r3rcne",
+    "banner_ios": "",
+    "interstitial_ios": "",
+    "rewarded_ios": ""
+  },
 
   "admob": {
     "banner_android": "ca-app-pub-3940256099942544/6300978111",
@@ -10,31 +21,5 @@
     "interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
     "appOpen_ios": "ca-app-pub-3940256099942544/5575463023",
     "rewarded_ios": "ca-app-pub-3940256099942544/1712467920"
-  },
-
-  "applovin": {
-    "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
-    "banner_android": "YOUR_APPLOVIN_BANNER_ANDROID",
-    "interstitial_android": "YOUR_APPLOVIN_INTERSTITIAL_ANDROID",
-    "rewarded_android": "YOUR_APPLOVIN_REWARDED_ANDROID",
-    "banner_ios": "YOUR_APPLOVIN_BANNER_IOS",
-    "interstitial_ios": "YOUR_APPLOVIN_INTERSTITIAL_IOS",
-    "rewarded_ios": "YOUR_APPLOVIN_REWARDED_IOS"
-  },
-
-  "ironsource": {
-    "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
-    "banner_android": "3aswekz2nkxzsrky",
-    "interstitial_android": "e6x2qb3fntxj0z6g",
-    "rewarded_android": "q8m10a4xt1r3rcne",
-    "banner_ios": "",
-    "interstitial_ios": "",
-    "rewarded_ios": ""
-  },
-
-  "fan": {
-    "banner_android": "YOUR_FAN_BANNER_ID",
-    "interstitial_android": "YOUR_FAN_INTERSTITIAL_ID",
-    "rewarded_android": "YOUR_FAN_REWARDED_ID"
   }
 }
