@@ -1,24 +1,40 @@
 {
   "activeNetwork": "admob",
+
   "admob": {
     "banner_android": "ca-app-pub-3940256099942544/6300978111",
     "interstitial_android": "ca-app-pub-3940256099942544/1033173712",
     "appOpen_android": "ca-app-pub-3940256099942544/9257395921",
     "rewarded_android": "ca-app-pub-3940256099942544/5224354917",
-
     "banner_ios": "ca-app-pub-3940256099942544/2934735716",
     "interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
     "appOpen_ios": "ca-app-pub-3940256099942544/5575463023",
     "rewarded_ios": "ca-app-pub-3940256099942544/1712467920"
   },
-  "fan": {
-    "banner": "YOUR_FAN_BANNER_ID",
-    "interstitial": "YOUR_FAN_INTERSTITIAL_ID",
-    "rewarded": "YOUR_FAN_REWARDED_ID"
-  },
+
   "applovin": {
-    "banner": "YOUR_APPLOVIN_BANNER_ID",
-    "interstitial": "YOUR_APPLOVIN_INTERSTITIAL_ID",
-    "rewarded": "YOUR_APPLOVIN_REWARDED_ID"
+    "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
+    "banner_android": "YOUR_APPLOVIN_BANNER_ANDROID",
+    "interstitial_android": "YOUR_APPLOVIN_INTERSTITIAL_ANDROID",
+    "rewarded_android": "YOUR_APPLOVIN_REWARDED_ANDROID",
+    "banner_ios": "YOUR_APPLOVIN_BANNER_IOS",
+    "interstitial_ios": "YOUR_APPLOVIN_INTERSTITIAL_IOS",
+    "rewarded_ios": "YOUR_APPLOVIN_REWARDED_IOS"
+  },
+
+  "ironsource": {
+    "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
+    "banner_android": "3aswekz2nkxzsrky",
+    "interstitial_android": "e6x2qb3fntxj0z6g",
+    "rewarded_android": "q8m10a4xt1r3rcne",
+    "banner_ios": "",
+    "interstitial_ios": "",
+    "rewarded_ios": ""
+  },
+
+  "fan": {
+    "banner_android": "YOUR_FAN_BANNER_ID",
+    "interstitial_android": "YOUR_FAN_INTERSTITIAL_ID",
+    "rewarded_android": "YOUR_FAN_REWARDED_ID"
   }
 }
