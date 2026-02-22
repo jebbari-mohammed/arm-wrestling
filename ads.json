@@ -8,7 +8,11 @@
     "banner_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
     "interstitial_image": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
     "interstitial_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
-    "interstitial_delay": 3
+    "interstitial_delay": 3,
+    "rewarded_image": "https://drive.google.com/thumbnail?id=YOUR_FILE_ID&sz=w800",
+    "rewarded_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
+    "rewarded_delay": 5
+}
   },
 
   "ironsource": {
