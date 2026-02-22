@@ -21,5 +21,15 @@
     "interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
     "appOpen_ios": "ca-app-pub-3940256099942544/5575463023",
     "rewarded_ios": "ca-app-pub-3940256099942544/1712467920"
+  },
+  
+  "applovin": {
+    "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
+    "banner_android": "YOUR_APPLOVIN_BANNER_ANDROID_UNIT_ID",
+    "interstitial_android": "YOUR_APPLOVIN_INTERSTITIAL_ANDROID_UNIT_ID",
+    "rewarded_android": "YOUR_APPLOVIN_REWARDED_ANDROID_UNIT_ID",
+    "banner_ios": "YOUR_APPLOVIN_BANNER_IOS_UNIT_ID",
+    "interstitial_ios": "YOUR_APPLOVIN_INTERSTITIAL_IOS_UNIT_ID",
+    "rewarded_ios": "YOUR_APPLOVIN_REWARDED_IOS_UNIT_ID"
   }
 }
