@@ -1,5 +1,15 @@
 {
-  "activeNetwork": "ironsource",
+    
+  "activeNetwork": "custom",
+
+  
+  "custom": {
+    "banner_image": "https://drive.google.com/file/d/1jP3t12ce-1e-VEPd18uZ-sB_qk8GJcSG/view?usp=sharing",
+    "banner_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
+    "interstitial_image": "https://drive.google.com/file/d/1jP3t12ce-1e-VEPd18uZ-sB_qk8GJcSG/view?usp=sharing",
+    "interstitial_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
+    "interstitial_delay": 3
+  },
 
   "ironsource": {
     "app_key_android": "254f0425d",
