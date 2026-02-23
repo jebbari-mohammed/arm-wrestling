@@ -34,13 +34,19 @@
   },
 
   "custom": {
-    "banner_image": "https://drive.google.com/thumbnail?id=1jP3t12ce-1e-VEPd18uZ-sB_qk8GJcSG&sz=w800",
-    "banner_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
-    "interstitial_image": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
-    "interstitial_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
-    "interstitial_delay": 3,
-    "rewarded_image": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
-    "rewarded_link": "https://play.google.com/store/apps/details?id=com.hapday.healthy.solutions.hapday&hl=fr",
-    "rewarded_delay": 5
-  }
+  "banner_image_android": "https://...",
+  "banner_link_android": "https://play.google.com/...",
+  "banner_image_ios": "https://...",
+  "banner_link_ios": "https://apps.apple.com/...",
+  "interstitial_image_android": "https://...",
+  "interstitial_link_android": "https://play.google.com/...",
+  "interstitial_image_ios": "https://...",
+  "interstitial_link_ios": "https://apps.apple.com/...",
+  "interstitial_delay": 3,
+  "rewarded_image_android": "https://...",
+  "rewarded_link_android": "https://play.google.com/...",
+  "rewarded_image_ios": "https://...",
+  "rewarded_link_ios": "https://apps.apple.com/...",
+  "rewarded_delay": 5
+}
 }
