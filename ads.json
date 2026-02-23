@@ -50,6 +50,3 @@
   "rewarded_delay": 5
 }
 }
-//Whenever you edit ads.json or exercises.json on GitHub, visit this URL to instantly clear the cache: https://purge.jsdelivr.net/gh/jebbari-mohammed/arm-wrestling@main/ads.json
-
-//And for exercises: https://purge.jsdelivr.net/gh/jebbari-mohammed/arm-wrestling@main/exercises.json
