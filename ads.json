@@ -34,19 +34,19 @@
   },
 
   "custom": {
-  "banner_image_android": "https://...",
-  "banner_link_android": "https://play.google.com/...",
-  "banner_image_ios": "https://...",
-  "banner_link_ios": "https://apps.apple.com/...",
-  "interstitial_image_android": "https://...",
-  "interstitial_link_android": "https://play.google.com/...",
-  "interstitial_image_ios": "https://...",
-  "interstitial_link_ios": "https://apps.apple.com/...",
+  "banner_image_android": "https://drive.google.com/thumbnail?id=1jP3t12ce-1e-VEPd18uZ-sB_qk8GJcSG&sz=w800",
+  "banner_link_android": "https://play.google.com/store/apps/details?id=ai.englishcoach.app&hl=fr",
+  "banner_image_ios": "https://drive.google.com/thumbnail?id=1qyHRPItCiXkIUUYcUrLmAlOBiC2JhqDu&sz=w800",
+  "banner_link_ios": "https://apps.apple.com/ma/app/aeronaut-for-bluesky/id6670275450?mt=12",
+  "interstitial_image_android": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
+  "interstitial_link_android": "https://play.google.com/store/apps/details?id=ai.englishcoach.app&hl=fr",
+  "interstitial_image_ios": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
+  "interstitial_link_ios": "https://apps.apple.com/ma/app/aeronaut-for-bluesky/id6670275450?mt=12",
   "interstitial_delay": 3,
-  "rewarded_image_android": "https://...",
-  "rewarded_link_android": "https://play.google.com/...",
-  "rewarded_image_ios": "https://...",
-  "rewarded_link_ios": "https://apps.apple.com/...",
+  "rewarded_image_android": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
+  "rewarded_link_android": "https://play.google.com/store/apps/details?id=ai.englishcoach.app&hl=fr",
+  "rewarded_image_ios": "https://drive.google.com/thumbnail?id=169HZyL1hmGM-fwYESQ9SBeK1KeW2kMZ3&sz=w800",
+  "rewarded_link_ios": "https://apps.apple.com/ma/app/aeronaut-for-bluesky/id6670275450?mt=12",
   "rewarded_delay": 5
 }
 }
